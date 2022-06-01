@@ -1,0 +1,7 @@
+#Write the code to generate random three digit number using random in python.
+
+
+import random
+print(int(random.random( )*900+100))
+© 2022 GitHub, Inc.
+Terms
